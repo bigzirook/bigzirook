@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Singh
 - 🌱 I’m currently learning Dart & Flutter
 - 💬 Ask me about ... Web Develpoment, Php , jQuery , javaScript & a little bit html css
-- 💞️ I’m looking to collaborate on ...
+- 😄 Employement ... Open for full-time opportunities
 - 📫 How to reach me Deepaksingh967040@gmail.com
 
 <!---
